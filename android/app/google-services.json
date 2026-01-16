@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273263990467",
+    "project_id": "slangsavvy-a95e0",
+    "storage_bucket": "slangsavvy-a95e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273263990467:android:36ca8cedb0957aed3f7476",
+        "android_client_info": {
+          "package_name": "com.example.slangsavvy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUb2q1SZJr7uxpEOfUINrPmyTwhjqJ3Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
